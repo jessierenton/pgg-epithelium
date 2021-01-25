@@ -23,4 +23,4 @@ run_sigmoid_pgg_parallel.py takes command line args: s, h, b1, b2...
 Can find data from these simulations in ../Data/fixprobs
 
 ## Neutral simulation data
-neighbour_data_neutral.py runs simulations for neutral mutants and generates data on cell neighbourhoods (i.e. how many neighbours for each cell, how many mutant neighbours etc.) Data can be found in ../Data/batch_tm .
+neighbour_data_neutral.py runs simulations for neutral mutants and generates data on cell neighbourhoods (i.e. how many neighbours for each cell, how many mutant neighbours etc.) Data can be found in ../Data/batch_* .
